@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </br>
 
 <h2 align="left"> Connect with me: </h2>
-<p> <a href="https://www.linkedin.com/in/linkedin.com/in/ravi0929/
+<p> <a href="https://www.linkedin.com/in/ravi0929/
 " target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:ravipatel120798@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <br/>
