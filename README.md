@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 💼   I aspire to work as a JAVA developer.
 </br>
 ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.</br>
-🗺️ Want to know more? Check out my portfolio <a href="https://github.com/Ravipatel02"> here </a>. <br/>
+🗺️ Want to know more? Check out my portfolio <a href="https://myportfolio-0929.vercel.app/"> here </a>. <br/>
 
 </br>
 
