@@ -57,9 +57,7 @@ Here are some ideas to get you started:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravipatel02&show_icons=true&locale=en" alt="ravipatel02" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravipatel02&" alt="ravipatel02" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravipatel02&show_icons=true&locale=en&layout=compact" alt="ravipatel02" /></p>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-  </p>
+
 <br/>
 
 <!--    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp; -->
