@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ravi Patel</h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-<h3 align="center">Java DeveLoper.</h3>
+<h3 align="center">Java Developer.</h3>
 
 <br/>
 <h4>About Me</h4>
